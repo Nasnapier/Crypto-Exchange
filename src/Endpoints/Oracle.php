@@ -2,7 +2,6 @@
 declare(strict_types=1);
 
 namespace Coinbase\Endpoints;
-
 use Coinbase\Interfaces\SimpleGetable;
 use Coinbase\Traits\Helpers;
 
