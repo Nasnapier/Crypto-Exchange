@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Coinbase\Endpoints;
+namespace Coinbase\Endpoints:
 
 use Coinbase\Interfaces\Getable;
 use Coinbase\Interfaces\Listable;
