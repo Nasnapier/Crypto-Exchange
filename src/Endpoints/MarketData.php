@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Coinbase\Endpoints;
+namespace Coinbase\Endpoints;2
 
 use Coinbase\Traits\Helpers;
 
