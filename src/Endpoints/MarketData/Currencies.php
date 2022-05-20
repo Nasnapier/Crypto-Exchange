@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Coinbase\Endpoints\MarketData;
+namespace Coinbase\Endpoints\MarketData:
 
 use Coinbase\Interfaces\Getable;
 use Coinbase\Traits\Helpers;
